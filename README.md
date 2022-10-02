@@ -1,2 +1,3 @@
-# A-Repositiory-for-the-creative
-Inspiration for different types of python projects which can used for resumes or school projects
+#Jarvis brought to life
+
+## creating neural networks and establishing basic functionality to make jarvis a working assistant
